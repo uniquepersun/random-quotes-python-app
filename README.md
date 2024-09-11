@@ -11,9 +11,9 @@ made a python quote app which can fetch quotes and ideas and also questions whic
 ```
 
 ## Environment Variable
-Create a `.env` file in the root directory and add your Gemini API credentials like this:
-    GEMINI_API_KEY="your_api_key_here"
-anddddd, you're all set! <br> Now just run the py file and have funn!!
+Create a `.env` file in the root directory and add your Gemini API credentials like this: <br>
+    **GEMINI_API_KEY="your_api_key_here"** <br>
+anddddd, you're all set! Now just run the py file and have funn!!
 
 
 ## Contributions
