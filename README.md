@@ -19,6 +19,9 @@ anddddd, you're all set! Now just run the py file and have funn!!
 ## Contributions
 you can suggest or contribute if you want :v:
 
+## screenshot!!
+It returns something like [this](https://github.com/user-attachments/assets/8b6a8cd7-8fd8-459c-84d9-40dc8e00fb72) always different
+
 
 ## if you have any problem regarding this project or it's development (obv, copyrights)
 you can contact us or just open a pr or comment it out.
