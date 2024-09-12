@@ -78,11 +78,15 @@ if __name__ == "__main__":
 
     if content:
         extract_with_gemini(content)
-        print(idea1)
-        print(idea2)
-        print(idea3)
-        print(quote1) 
-        print(quote2) 
-        print(author1) 
+        print(f"First idea is: +  {idea1}")
+        print(f"second idea is: +  {idea2}")
+        print(f"third idea is: +  {idea3}")
+        print(f"Here is the first quote: +  {quote1}")
+        print(f"The Author: +  {author1}")
+        print(f"Here is the second quote: +  {quote2}")
+        print(f"The Author: +  {author2}")
+        print(f"Here is the question: +  {question}")
     else:
         print("Content not found on the page.")
+
+
