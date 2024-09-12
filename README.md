@@ -21,6 +21,8 @@ you can suggest or contribute if you want :v:
 
 ## screenshot!!
 It returns something like [this](https://github.com/user-attachments/assets/8b6a8cd7-8fd8-459c-84d9-40dc8e00fb72) always different
+and, [another one](https://github.com/user-attachments/assets/6078b501-fbbe-414a-8de0-5c4659310a96)
+
 
 
 ## if you have any problem regarding this project or it's development (obv, copyrights)
